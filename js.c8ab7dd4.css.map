@@ -1,0 +1,1 @@
+{"version":3,"sources":["sass/_styles.scss"],"names":[],"mappings":"AAAA,OACE,YAAA,CACA,sBAAA,CACA,kBAAA,CACA,aAGF,OACE","file":"js.c8ab7dd4.css","sourceRoot":"../src","sourcesContent":[".timer {\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  height: 100vh;\n}\n\n.field {\n  padding: 5px;\n}\n"]}
